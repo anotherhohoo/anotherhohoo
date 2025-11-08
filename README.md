@@ -24,7 +24,7 @@ A Computer Science student who is very passionate and interested in technology, 
 
 <br>
 
-### Languages and Tools:
+### Languages and Tools that I've used and learned/learning:
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"  height="30" width="30" />
@@ -66,5 +66,7 @@ A Computer Science student who is very passionate and interested in technology, 
   <img src="https://github-readme-stats.vercel.app/api?username=anotherhohoo&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Hoho's GitHub Stats" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anotherhohoo&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Hoho's Top Languages" width="48%"/>
 </p>
+
+
 
 </div>
